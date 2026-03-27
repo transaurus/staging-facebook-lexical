@@ -1,0 +1,7 @@
+xcuserdata/
+*.xcworkspace
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+Lexical\ Developer\ Tools/VersioningConfig.xcconfig
