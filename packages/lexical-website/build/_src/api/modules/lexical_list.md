@@ -357,7 +357,7 @@ selection to the appropriate place after the operation is complete.
 
 ##### insertNewAfter() {#insertnewafter}
 
-> **insertNewAfter**(`_`, `restoreSelection`): [`ParagraphNode`](lexical.md#paragraphnode) \| [`ListItemNode`](#listitemnode)
+> **insertNewAfter**(`_`, `restoreSelection`): [`ListItemNode`](#listitemnode) \| [`ParagraphNode`](lexical.md#paragraphnode)
 
 Defined in: [packages/lexical-list/src/LexicalListItemNode.ts:311](https://github.com/facebook/lexical/tree/main/packages/lexical-list/src/LexicalListItemNode.ts#L311)
 
@@ -373,7 +373,7 @@ Defined in: [packages/lexical-list/src/LexicalListItemNode.ts:311](https://githu
 
 ###### Returns
 
-[`ParagraphNode`](lexical.md#paragraphnode) \| [`ListItemNode`](#listitemnode)
+[`ListItemNode`](#listitemnode) \| [`ParagraphNode`](lexical.md#paragraphnode)
 
 ###### Overrides
 

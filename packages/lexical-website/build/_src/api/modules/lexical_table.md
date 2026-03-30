@@ -2864,7 +2864,7 @@ Defined in: [packages/lexical-table/src/LexicalTableUtils.ts:1040](https://githu
 
 > **$createTableCellNode**(`headerState`, `colSpan`, `width?`): [`TableCellNode`](#tablecellnode)
 
-Defined in: [packages/lexical-table/src/LexicalTableCellNode.ts:443](https://github.com/facebook/lexical/tree/main/packages/lexical-table/src/LexicalTableCellNode.ts#L443)
+Defined in: [packages/lexical-table/src/LexicalTableCellNode.ts:460](https://github.com/facebook/lexical/tree/main/packages/lexical-table/src/LexicalTableCellNode.ts#L460)
 
 #### Parameters
 
@@ -3410,7 +3410,7 @@ True if the table does not have any merged cells, false otherwise.
 
 > **$isTableCellNode**(`node`): `node is TableCellNode`
 
-Defined in: [packages/lexical-table/src/LexicalTableCellNode.ts:451](https://github.com/facebook/lexical/tree/main/packages/lexical-table/src/LexicalTableCellNode.ts#L451)
+Defined in: [packages/lexical-table/src/LexicalTableCellNode.ts:468](https://github.com/facebook/lexical/tree/main/packages/lexical-table/src/LexicalTableCellNode.ts#L468)
 
 #### Parameters
 

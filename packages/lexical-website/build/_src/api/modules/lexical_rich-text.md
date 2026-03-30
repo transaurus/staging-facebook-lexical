@@ -219,7 +219,7 @@ Defined in: [packages/lexical-rich-text/src/index.ts:243](https://github.com/fac
 
 ##### insertNewAfter() {#insertnewafter}
 
-> **insertNewAfter**(`selection?`, `restoreSelection?`): [`ParagraphNode`](lexical.md#paragraphnode) \| [`HeadingNode`](#headingnode)
+> **insertNewAfter**(`selection?`, `restoreSelection?`): [`HeadingNode`](#headingnode) \| [`ParagraphNode`](lexical.md#paragraphnode)
 
 Defined in: [packages/lexical-rich-text/src/index.ts:369](https://github.com/facebook/lexical/tree/main/packages/lexical-rich-text/src/index.ts#L369)
 
@@ -235,7 +235,7 @@ Defined in: [packages/lexical-rich-text/src/index.ts:369](https://github.com/fac
 
 ###### Returns
 
-[`ParagraphNode`](lexical.md#paragraphnode) \| [`HeadingNode`](#headingnode)
+[`HeadingNode`](#headingnode) \| [`ParagraphNode`](lexical.md#paragraphnode)
 
 ###### Overrides
 

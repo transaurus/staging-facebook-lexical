@@ -108,7 +108,7 @@ Defined in: [packages/lexical-react/src/LexicalNodeContextMenuPlugin.tsx:30](htt
 
 ###### Inherited from
 
-`MenuOption.ref`
+[`NodeContextMenuSeparator`](#nodecontextmenuseparator).[`ref`](#ref-1)
 
 ##### title {#title}
 

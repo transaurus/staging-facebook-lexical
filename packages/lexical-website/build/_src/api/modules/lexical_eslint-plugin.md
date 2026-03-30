@@ -26,7 +26,7 @@ Defined in: [packages/lexical-eslint-plugin/src/index.ts:33](https://github.com/
 
 ###### @lexical/rules-of-lexical
 
-> **@lexical/rules-of-lexical**: `"error"` \| `"off"` \| `"warn"`
+> **@lexical/rules-of-lexical**: `"warn"` \| `"error"` \| `"off"`
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [packages/lexical-eslint-plugin/src/index.ts:23](https://github.com/
 
 ###### @lexical/rules-of-lexical
 
-> **@lexical/rules-of-lexical**: `"error"` \| `"off"` \| `"warn"`
+> **@lexical/rules-of-lexical**: `"warn"` \| `"error"` \| `"off"`
 
 ***
 

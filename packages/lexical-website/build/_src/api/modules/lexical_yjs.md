@@ -91,7 +91,7 @@ Defined in: [packages/lexical-yjs/src/Bindings.ts:27](https://github.com/faceboo
 
 ##### collabNodeMap {#collabnodemap}
 
-> **collabNodeMap**: `Map`\<`string`, `CollabLineBreakNode` \| `CollabElementNode` \| `CollabTextNode` \| `CollabDecoratorNode`\>
+> **collabNodeMap**: `Map`\<`string`, `CollabElementNode` \| `CollabTextNode` \| `CollabDecoratorNode` \| `CollabLineBreakNode`\>
 
 Defined in: [packages/lexical-yjs/src/Bindings.ts:39](https://github.com/facebook/lexical/tree/main/packages/lexical-yjs/src/Bindings.ts#L39)
 

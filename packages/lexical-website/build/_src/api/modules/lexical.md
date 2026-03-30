@@ -11373,7 +11373,7 @@ Defined in: [packages/lexical/src/LexicalSelection.ts:134](https://github.com/fa
 
 ##### type {#type-8}
 
-> **type**: `"text"` \| `"element"`
+> **type**: `"element"` \| `"text"`
 
 Defined in: [packages/lexical/src/LexicalSelection.ts:135](https://github.com/facebook/lexical/tree/main/packages/lexical/src/LexicalSelection.ts#L135)
 
@@ -11439,7 +11439,7 @@ Defined in: [packages/lexical/src/LexicalSelection.ts:179](https://github.com/fa
 
 ###### type
 
-`"text"` | `"element"`
+`"element"` | `"text"`
 
 ###### onlyIfChanged?
 
@@ -16362,7 +16362,7 @@ Defined in: [packages/lexical/src/LexicalSelection.ts:220](https://github.com/fa
 
 ##### type
 
-`"text"` | `"element"`
+`"element"` | `"text"`
 
 #### Returns
 

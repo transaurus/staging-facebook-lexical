@@ -652,7 +652,7 @@ Defined in: [packages/lexical-code-core/src/CodeNode.ts:405](https://github.com/
 
 ##### insertNewAfter() {#insertnewafter}
 
-> **insertNewAfter**(`selection`, `restoreSelection`): `null` \| [`TabNode`](lexical.md#tabnode) \| [`ParagraphNode`](lexical.md#paragraphnode) \| [`CodeHighlightNode`](#codehighlightnode)
+> **insertNewAfter**(`selection`, `restoreSelection`): `null` \| [`ParagraphNode`](lexical.md#paragraphnode) \| [`TabNode`](lexical.md#tabnode) \| [`CodeHighlightNode`](#codehighlightnode)
 
 Defined in: [packages/lexical-code-core/src/CodeNode.ts:288](https://github.com/facebook/lexical/tree/main/packages/lexical-code-core/src/CodeNode.ts#L288)
 
@@ -668,7 +668,7 @@ Defined in: [packages/lexical-code-core/src/CodeNode.ts:288](https://github.com/
 
 ###### Returns
 
-`null` \| [`TabNode`](lexical.md#tabnode) \| [`ParagraphNode`](lexical.md#paragraphnode) \| [`CodeHighlightNode`](#codehighlightnode)
+`null` \| [`ParagraphNode`](lexical.md#paragraphnode) \| [`TabNode`](lexical.md#tabnode) \| [`CodeHighlightNode`](#codehighlightnode)
 
 ###### Overrides
 
