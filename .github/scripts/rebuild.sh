@@ -75,6 +75,11 @@ console.log('Generated docs/packages directory');
 if [ -d "${CURRENT_DIR}/i18n" ]; then
     cp -r "${CURRENT_DIR}/i18n/." "${SOURCE_DEPS_DIR}/packages/lexical-website/i18n/"
 fi
+# --- Copy i18n-modified docusaurus config from staging ---
+if [ -f "${CURRENT_DIR}/docusaurus.config.js" ]; then
+    cp "${CURRENT_DIR}/docusaurus.config.js" "${SOURCE_DEPS_DIR}/packages/lexical-website/docusaurus.config.js"
+    echo "[INFO] Copied modified docusaurus.config.js with zh-Hans locale"
+fi
 
 # --- Build from source (has full workspace + node_modules) ---
 cd "${SOURCE_DEPS_DIR}/packages/lexical-website"
